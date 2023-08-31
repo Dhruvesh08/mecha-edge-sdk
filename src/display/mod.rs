@@ -1,3 +1,3 @@
 mod display;
 
-pub use display::DisplayInterface;
+pub use display::Display;

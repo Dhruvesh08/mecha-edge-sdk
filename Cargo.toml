@@ -3,4 +3,5 @@ members = [
     "wifi-module",
     "display-module",
     "battery-module",
+    "gyroscope-module",
 ]
